@@ -6,10 +6,9 @@
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-14-000000?logo=next.js&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black">
   <img alt="API" src="https://img.shields.io/badge/API-TVmaze-3aaa35">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue">
 </p>
 
-**🔗 Live demo:** _[add your Vercel URL here after deploying]_
+**🔗 Live demo:** **[movie-finder-deeksha.vercel.app](https://movie-finder-deeksha.vercel.app/)**
 
 ---
 
@@ -47,13 +46,13 @@ TMDB wouldn't load on my network during development, so I switched to TVmaze —
 
 > Requires **Node.js (LTS)** installed.
 
-````bash
+```bash
 # 1. Install dependencies
 npm install
 
 # 2. Start the dev server
 npm run dev
-````
+```
 
 Then open **[http://localhost:3000](http://localhost:3000)** in your browser.
 
@@ -63,7 +62,7 @@ Then open **[http://localhost:3000](http://localhost:3000)** in your browser.
 
 ## 📁 Project structure
 
-````text
+```text
 movie-finder-deeksha/
 ├── app/
 │   ├── layout.jsx              # Root layout (header, footer, fonts)
@@ -84,7 +83,7 @@ movie-finder-deeksha/
 │   └── Footer.jsx              # Footer
 └── lib/
     └── api.js                  # TVmaze API calls + data normalization
-````
+```
 
 ---
 
