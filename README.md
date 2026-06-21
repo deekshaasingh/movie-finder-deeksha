@@ -91,5 +91,3 @@ movie-finder-deeksha/
 ## 📝 Notes
 
 Pagination is handled **client-side**: TVmaze returns search results in a single response without server pagination, so the full list is fetched once and sliced into pages of 12. This makes the "exactly 12 per page" requirement straightforward to guarantee.
-````
-````
