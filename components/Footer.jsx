@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <footer className="site-footer">
-      <div className="container">Built for Jeevan — Anusha</div>
+      <div className="container">Built by Deeksha</div>
     </footer>
   );
 }
